@@ -1,0 +1,48 @@
+# API Keys and Secrets
+*.key
+*.env
+.env
+config.json
+secrets.json
+
+# OpenAI API Keys
+openai_key.txt
+api_keys.txt
+
+# Google Apps Script (if needed)
+.clasp.json
+
+# Logs
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if you add any)
+node_modules/
+
+# Python (if you add Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Backup Files
+*.bak
+*.backup
